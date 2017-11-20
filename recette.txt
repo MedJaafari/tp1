@@ -2,4 +2,3 @@ salade
 huile d'olive 
 sel
 poivre
-poulet
